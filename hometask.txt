@@ -1,0 +1,1 @@
+Файлы human.txt в ветках master и origin/demo одинаковые.
